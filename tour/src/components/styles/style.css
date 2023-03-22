@@ -1,0 +1,34 @@
+body {
+  background-color: antiquewhite;
+}
+.textError {
+  text-align: center;
+  padding-top: 3rem;
+}
+h1,
+h2 {
+  text-transform: uppercase;
+}
+.text {
+  text-align: justify;
+  padding-right: 2rem;
+}
+.img {
+  height: 310px;
+  width: 98%;
+}
+.card {
+  margin-bottom: 2rem;
+}
+.middle {
+  border-left: 1px solid #ddd;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.about {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.errtext {
+  text-align: center;
+}
